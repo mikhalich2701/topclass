@@ -1,0 +1,42 @@
+@font-face {
+	font-family: "Roboto Condensed_Bold";
+	src:url(../fonts/RobotoCondensed-Bold.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Roboto Condensed";
+	src:url(../fonts/RobotoCondensed-Light.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Open Sans";
+	src:url(../fonts/OpenSans-Light.ttf) format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Open Sans";
+	src:url(../fonts/OpenSans-Regular.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Raleway";
+	src:url(../fonts/Raleway-Bold.ttf) format("truetype");
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Raleway";
+	src:url(../fonts/Raleway-Black.ttf) format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Raleway";
+	src:url(../fonts/Raleway-Regular.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
